@@ -1,162 +1,162 @@
 [
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_register_fragment.xml.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\layout\\register_fragment.xml"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_edit_task.xml.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\layout\\activity_add_edit_task.xml"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_t.png.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\drawable\\t.png"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_roundededit.xml.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\drawable\\roundededit.xml"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_add_edit_task.xml.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\layout-land\\activity_add_edit_task.xml"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_edit_task.xml.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\layout\\activity_add_edit_task.xml"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\font_chango.xml.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\font\\chango.xml"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_fragment.xml.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\layout\\login_fragment.xml"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_priority_circle.xml.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\drawable\\priority_circle.xml"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\font_bungee.xml.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\font\\bungee.xml"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_fragment.xml.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\layout\\login_fragment.xml"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button2.xml.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\drawable\\button2.xml"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\drawable\\ic_add.xml"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.jpeg.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\drawable\\bg.jpeg"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.jpeg.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\drawable\\bg.jpeg"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_t.png.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\drawable\\t.png"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\drawable\\ic_add.xml"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button.xml.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\drawable\\button.xml"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_task_layout.xml.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\layout\\task_layout.xml"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logout.xml.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\drawable\\ic_logout.xml"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_register_fragment.xml.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\layout\\register_fragment.xml"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logout.xml.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\drawable\\ic_logout.xml"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button.xml.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\drawable\\button.xml"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mic_black_24dp.xml.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\drawable\\ic_mic_black_24dp.xml"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_task_layout.xml.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\layout\\task_layout.xml"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mic_black_24dp.xml.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\drawable\\ic_mic_black_24dp.xml"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\font_bungee.xml.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\font\\bungee.xml"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_roundededit.xml.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\drawable\\roundededit.xml"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg2.png.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\drawable\\bg2.png"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_appmenu.xml.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\menu\\appmenu.xml"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_add_edit_task.xml.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\layout-land\\activity_add_edit_task.xml"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg2.png.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\drawable\\bg2.png"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button2.xml.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\drawable\\button2.xml"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_task_list.xml.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\layout\\activity_task_list.xml"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\menu_appmenu.xml.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\menu\\appmenu.xml"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_priority_circle.xml.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\drawable\\priority_circle.xml"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_task_list.xml.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\layout\\activity_task_list.xml"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "D:\\L6\\DMA\\TodoApp-master\\app\\build\\intermediates\\res\\merged\\debug\\font_chango.xml.flat",
-        "source": "D:\\L6\\DMA\\TodoApp-master\\app\\src\\main\\res\\font\\chango.xml"
+        "merged": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
     }
 ]
