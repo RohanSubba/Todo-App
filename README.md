@@ -32,5 +32,5 @@ Open the menu options and select delete all to delete every tasks.<br />
 
 # Logout
 To logout from the app, you can click the power off button on the menu bar.<br />
-![logout](https://user-images.githubusercontent.com/50654277/113448988-997c7e00-941c-11eb-837e-3c530db51a8d.gif)
+![logout](https://user-images.githubusercontent.com/50654277/113481032-07758380-94b7-11eb-8e0b-30fde5a18f4c.gif)
 
