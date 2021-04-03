@@ -147,6 +147,8 @@ public class TaskListActivity extends AppCompatActivity implements TaskAdapter.I
                 Intent intent = new Intent(this, SplashActivity.class);
                 startActivity(intent);
                 finish();
+                break;
+
             case R.id.deleteAllOption:
                 handleOpenAlertDialogue();
 

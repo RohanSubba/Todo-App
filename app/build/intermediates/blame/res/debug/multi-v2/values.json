@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\L6\\finalTodo\\Todo-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\L6\\Todo\\Todo-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
-                {
-                    "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "20,4,1,13,24,25,27,16,23,18,3,17,22,26,7,8,9,14,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "771,126,17,488,1001,1071,1213,626,928,723,68,674,865,1145,238,280,322,570,815",
-                        "endColumns": "42,65,47,80,68,72,89,46,71,44,56,47,61,66,40,40,40,52,48",
-                        "endOffsets": "809,187,60,564,1065,1139,1298,668,995,763,120,717,922,1207,274,316,358,618,859"
-                    },
-                    "to": {
-                        "startLines": "813,814,815,823,824,826,827,832,834,835,836,837,872,873,879,880,881,882,885",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "52228,52271,52337,53093,53168,53302,53375,54021,54222,54294,54339,54396,60615,60677,61546,61587,61628,61669,61846",
-                        "endColumns": "42,65,47,74,68,72,89,46,71,44,56,47,61,66,40,40,40,52,48",
-                        "endOffsets": "52266,52332,52380,53163,53232,53370,53460,54063,54289,54334,54391,54439,60672,60739,61582,61623,61664,61717,61890"
-                    }
-                },
                 {
                     "source": "C:\\Users\\dell\\.gradle\\caches\\transforms-2\\files-2.1\\ef8a364a6a39421e69c96cf68eeb3e63\\appcompat-1.1.0\\res\\values\\values.xml",
                     "from": {
@@ -116,26 +99,41 @@
                     }
                 },
                 {
-                    "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\L6\\Todo\\Todo-App\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
-                        "startLines": "3,9,18",
+                        "startLines": "3,4,5",
                         "startColumns": "4,4,4",
-                        "startOffsets": "57,382,894",
-                        "endLines": "8,16,21",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "376,832,1125"
+                        "startOffsets": "130,189,246",
+                        "endColumns": "57,55,41",
+                        "endOffsets": "183,240,283"
                     },
                     "to": {
-                        "startLines": "899,3070,3623",
+                        "startLines": "432,433,494",
                         "startColumns": "4,4,4",
-                        "startOffsets": "62899,204841,244791",
-                        "endLines": "904,3077,3626",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "63213,205284,245019"
+                        "startOffsets": "27967,28025,31987",
+                        "endColumns": "57,55,41",
+                        "endOffsets": "28020,28076,32024"
                     }
                 },
                 {
-                    "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\values\\font_certs.xml",
+                    "source": "D:\\L6\\Todo\\Todo-App\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "20,4,1,13,24,25,27,16,23,18,3,17,22,26,7,8,9,14,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "771,126,17,488,1001,1071,1213,626,928,723,68,674,865,1145,238,280,322,570,815",
+                        "endColumns": "42,65,47,80,68,72,89,46,71,44,56,47,61,66,40,40,40,52,48",
+                        "endOffsets": "809,187,60,564,1065,1139,1298,668,995,763,120,717,922,1207,274,316,358,618,859"
+                    },
+                    "to": {
+                        "startLines": "813,814,815,823,824,826,827,832,834,835,836,837,872,873,879,880,881,882,885",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "52228,52271,52337,53093,53168,53302,53375,54021,54222,54294,54339,54396,60615,60677,61546,61587,61628,61669,61846",
+                        "endColumns": "42,65,47,74,68,72,89,46,71,44,56,47,61,66,40,40,40,52,48",
+                        "endOffsets": "52266,52332,52380,53163,53232,53370,53460,54063,54289,54334,54391,54439,60672,60739,61582,61623,61664,61717,61890"
+                    }
+                },
+                {
+                    "source": "D:\\L6\\Todo\\Todo-App\\app\\src\\main\\res\\values\\font_certs.xml",
                     "from": {
                         "startLines": "2,6,11",
                         "startColumns": "4,4,4",
@@ -154,7 +152,7 @@
                     }
                 },
                 {
-                    "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "D:\\L6\\Todo\\Todo-App\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
                         "startLines": "16,15,6,3,4,5,14,10,9,11",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -168,23 +166,6 @@
                         "startOffsets": "14556,15041,16287,16333,16380,16431,16483,19689,19738,19784",
                         "endColumns": "36,36,45,46,50,51,44,48,45,48",
                         "endOffsets": "14588,15073,16328,16375,16426,16478,16523,19733,19779,19828"
-                    }
-                },
-                {
-                    "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\values\\dimens.xml",
-                    "from": {
-                        "startLines": "3,4,5",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "130,189,246",
-                        "endColumns": "57,55,41",
-                        "endOffsets": "183,240,283"
-                    },
-                    "to": {
-                        "startLines": "432,433,494",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "27967,28025,31987",
-                        "endColumns": "57,55,41",
-                        "endOffsets": "28020,28076,32024"
                     }
                 },
                 {
@@ -264,41 +245,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\dell\\.gradle\\caches\\transforms-2\\files-2.1\\8820464f905e976a0e372e114ed12d81\\transition-1.2.0\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,95,142,185,240,287,341,393,442,503",
-                        "endColumns": "39,46,42,54,46,53,51,48,60,49",
-                        "endOffsets": "90,137,180,235,282,336,388,437,498,548"
-                    },
-                    "to": {
-                        "startLines": "722,723,731,734,735,753,754,755,756,757",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "46808,46848,47241,47380,47435,48319,48373,48425,48474,48535",
-                        "endColumns": "39,46,42,54,46,53,51,48,60,49",
-                        "endOffsets": "46843,46890,47279,47430,47477,48368,48420,48469,48530,48580"
-                    }
-                },
-                {
-                    "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endColumns": "56",
-                        "endOffsets": "109"
-                    },
-                    "to": {
-                        "startLines": "307",
-                        "startColumns": "4",
-                        "startOffsets": "19632",
-                        "endColumns": "56",
-                        "endOffsets": "19684"
-                    }
-                },
-                {
-                    "source": "D:\\L6\\finalTodo\\Todo-App\\app\\src\\main\\res\\values\\preloaded_fonts.xml",
+                    "source": "D:\\L6\\Todo\\Todo-App\\app\\src\\main\\res\\values\\preloaded_fonts.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -314,6 +261,23 @@
                         "endLines": "20",
                         "endColumns": "12",
                         "endOffsets": "3827"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\dell\\.gradle\\caches\\transforms-2\\files-2.1\\8820464f905e976a0e372e114ed12d81\\transition-1.2.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,142,185,240,287,341,393,442,503",
+                        "endColumns": "39,46,42,54,46,53,51,48,60,49",
+                        "endOffsets": "90,137,180,235,282,336,388,437,498,548"
+                    },
+                    "to": {
+                        "startLines": "722,723,731,734,735,753,754,755,756,757",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "46808,46848,47241,47380,47435,48319,48373,48425,48474,48535",
+                        "endColumns": "39,46,42,54,46,53,51,48,60,49",
+                        "endOffsets": "46843,46890,47279,47430,47477,48368,48420,48469,48530,48580"
                     }
                 },
                 {
@@ -333,6 +297,42 @@
                         "endLines": "56,4394,5642,5731",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "5575,294086,368417,373628"
+                    }
+                },
+                {
+                    "source": "D:\\L6\\Todo\\Todo-App\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "56",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "307",
+                        "startColumns": "4",
+                        "startOffsets": "19632",
+                        "endColumns": "56",
+                        "endOffsets": "19684"
+                    }
+                },
+                {
+                    "source": "D:\\L6\\Todo\\Todo-App\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,9,18",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "57,382,894",
+                        "endLines": "8,16,21",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "376,832,1125"
+                    },
+                    "to": {
+                        "startLines": "899,3070,3623",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "62899,204841,244791",
+                        "endLines": "904,3077,3626",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "63213,205284,245019"
                     }
                 }
             ]
